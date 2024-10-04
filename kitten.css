@@ -1,0 +1,8 @@
+pythonProject3/
+├── project/
+│   ├── __init__.py
+│   ├── database.py
+│   ├── models.py
+│   ├── schemas.py
+│   └── main.py
+└── requirements.txt
